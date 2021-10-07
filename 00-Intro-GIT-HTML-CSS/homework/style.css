@@ -1,0 +1,16 @@
+h1 {
+    color: darkolivegreen;
+}
+#thirdDiv {
+    height: 950px;
+    width: 500px;
+    background-color: beige;
+    padding: 50px;
+    border:darkolivegreen 2px solid;
+}
+#spanId {
+    font-size: 25px;
+    margin: 50px}
+.img {
+    width: 400px;
+}
